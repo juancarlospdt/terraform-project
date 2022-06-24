@@ -8,7 +8,7 @@ Con nuestro repositorio de GIT iniciado y configurado correctamente pasamos a la
 Usamos `az login` para conectarnos. Esto nos abrira una web para logearnos, y nos devolverá lo siguiente.
 
 <p align="center">
-  <img src="recursos/az_login.png">
+  <img src="recursos/az_login.PNG" title="hover text">
 </p>
 
 <!--
