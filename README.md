@@ -13,7 +13,7 @@ Para continuar necesitamos tambien el ID de Suscripcion, que utilizaremos para p
 Podemos encontrar el ID en la siguiente dirección.
 
 <p align="center">
-  <img src="images/suscipciones.PNG">
+  <img src="images/suscripciones.PNG">
 </p>
 
 Tras coger ID correremos los siguiente comandos.
