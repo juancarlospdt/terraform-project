@@ -7,13 +7,13 @@ required_providers {
   }
 }
 
-# Configure the Microsoft Azure Provider
+# Configuracion del Azure Provider
 provider "azurerm" {
   skip_provider_registration = "true"
-  subscription_id = "c9cac4e4-7711-43df-a3a7-35f3b86a45ee"
+  subscription_id = "5eee38bf-2553-485f-96ad-b473079ef5a3"
   features {}
 }
-# Create a resource group
+# Creacion de grupo de recursos
 resource "azurerm_resource_group" "terra-linux" {
   name = "terra-linux-rg"
   location = "West Europe"
